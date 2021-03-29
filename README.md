@@ -62,14 +62,15 @@ It is very impressive to see Suburban cities earning almost 50% of what Urban ci
 # Average Fare per Driver/Ride
 ![avgfareperdriver](https://user-images.githubusercontent.com/14188580/112909911-f17f5180-90b7-11eb-9428-eea4d697d3fa.png)
 ![avgfareperride](https://user-images.githubusercontent.com/14188580/112909917-f2b07e80-90b7-11eb-87f6-bf1928998384.png)
-
-
-
-
-
-
+<br>
+Above are visualizations for the average fare by Driver and per Ride grouped by City Type.<br>
+It is very easy to see just how drastically more expensive Rural and Suburban rides are in comparison to Urban ones.<br>
+There are many possible reasons for this:
+* Rural rides most likely have to travel longer distances to get passengers from point A to point B, coupled with the cost premium from a lack of available drivers.
+* Urban areas have an overabundance of drivers, simple supply and demand. I'm confident looking at data in Summer/Fall months would yield very different results.
+* Suburban rides may not have to travel as far as Rural rides, but most certainly shorter distances than Urban ones. 
 <br><br>
 
-Summary:
-<br>
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+# Summary:
+![PyBer_fare_summary](https://user-images.githubusercontent.com/14188580/112912629-98b2b780-90bd-11eb-9bdb-5450964cff05.png)
+
