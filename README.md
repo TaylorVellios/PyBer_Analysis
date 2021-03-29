@@ -16,7 +16,9 @@ Items included in this dataset:
 * The total driver count of the city each ride took place in
 * The "type" of city, or the categorization it falls under: Urban, Suburban, or Rural
 <br>
+
 ![dataset_snap](https://user-images.githubusercontent.com/14188580/112877554-8409fb80-908c-11eb-92b1-0287266302b2.PNG)
+
 <br>
 
 After confirming the data is NaN-Free, I used groupby functions to find useful data.<br>
