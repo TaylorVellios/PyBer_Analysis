@@ -48,7 +48,15 @@ While is should come as no surprise that there is certainly a correlation betwee
 * Both Suburban and Rural city types had fewer drivers than rides.
 <br><br>
 
+## Sum of Fares by City Type
+My last pie chart, I promise.<br>
+The following graph is showing the sum of all fares for each city type. Please take note of how much the Suburban and Rural city types start to push back against the ever-dominant Urban type. As soon as we start looking at dollars and cents we can see the importance of ride-sharing services in these areas.<br>
+It is very impressive to see Suburban cities earning almost 50% of what Urban cities brought in with when the number of rides for Suburban cities was 38.4% of the Urban count.
+<br>
 
+![sumoffares](https://user-images.githubusercontent.com/14188580/112903264-e07d1300-90ac-11eb-8915-8cc72b6efc4b.png)
+![faresby_type](https://user-images.githubusercontent.com/14188580/112903275-e4109a00-90ac-11eb-9d8b-35e697cb322d.PNG)
+<br><br>
 
 There is a description of the differences in ride-sharing data among the different city types., total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 <br><br>
