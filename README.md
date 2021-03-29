@@ -41,7 +41,9 @@ Plotted as a pie chart, it is easy to see how the Urban city-type eclipses the o
 
 <br>
 While is should come as no surprise that there is certainly a correlation between city population and number of drivers, the key takeaways from this plot are as follows:
+
 #### During the timeframe of this dataset (1/1/2019 - 5/8/2019):
+
 * There were more drivers onboarded to service Urban cities than there were rides given.
 * Both Suburban and Rural city types had fewer drivers than rides.
 <br><br>
