@@ -28,7 +28,6 @@ Using .groupby() on the "type" column, I used the .count() method on unique Ride
 Plotted as a pie chart, it is very apparent that the Urban city type gets the largest amount of usage for this ride sharing platform.<br>
 ![rides](https://user-images.githubusercontent.com/14188580/112891129-5ed1b900-909d-11eb-883c-4fae022d6a87.png)
 ![rides_series](https://user-images.githubusercontent.com/14188580/112901570-8e3af280-90aa-11eb-8146-ab4328df287f.PNG)
-
 <br><br>
 
 ## Total Drivers by City Type
@@ -38,8 +37,8 @@ Plotted as a pie chart, it is easy to see how the Urban city-type eclipses the o
 
 ![drivers](https://user-images.githubusercontent.com/14188580/112899125-52525e00-90a7-11eb-8e50-93fa615d54c2.png)
 ![drivers_series](https://user-images.githubusercontent.com/14188580/112901592-972bc400-90aa-11eb-9ad1-beebf103ab8f.PNG)
+<br><br>
 
-<br>
 While is should come as no surprise that there is certainly a correlation between city population and number of drivers, the key takeaways from this plot are as follows:
 
 #### During the timeframe of this dataset (1/1/2019 - 5/8/2019):
