@@ -82,11 +82,9 @@ There is no doubting the foothold that Urban cities have for the bottom line of 
 
 * By lowering the base fare while keeping the driver's cut intact, it could encourage a greater number of people to join the platform: creating more cash flow.
 
-<br>
 ### Based on our driver counts, it comes as no surprise that there is a direct relationship between city population and number of onboarded drivers.
 * By creating an incentive for drivers to service city types other than the ones they reside in, it would be possible to help our supply-heavy Urban drivers operate more rides to keep them as part of the system longer, while alleviating any issues that Suburban and Rural users might have with wait times.
 
-<br>
 ### Other Markets:
 * No matter how you look at it, this service seems to be better at employing drivers than garnering interest for their services. If we have a labor force as strong as this one - without an equal or greater demand of their services, it would be beneficial to look into additional means of pulling in revenue. Should something happen to impact the ride-sharing market, like a global pandemic for instance, this business would be crippled. Breaking into the grocery/restaurant delivery service market would give our drivers more incentive to stay active for our users throughout the day while bringing in more revenue.
 
